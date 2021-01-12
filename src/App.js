@@ -1,4 +1,5 @@
-import RandomNumbers from "./components/randomNumbers";
+import RandomNumbers from "./components/randomNumbers"
+import './App.css'
 
 function App() {
   return (
